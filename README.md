@@ -67,3 +67,4 @@ Flask-Tryton should automatically find and parse the Tryton config file. If it i
 #### No database with that name
 
 This is related to the previous error, and occurs when Flask-Tryton cannot find the Tryton config file. Following the previous procedure should hopefully fix it.
+# GNU-Health
